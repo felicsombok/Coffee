@@ -1,15 +1,6 @@
 cafe = "Octane"
 balance = 7.5
 
-#You may modify the lines of code above, but don't move them!
-#When you Submit your code, we'll change these lines to
-#assign different values to the variables.
-
-#Atlanta is full of great coffee places. Unfortunately, great
-#coffee is usually expensive. The variables above will
-#contain a balance and a cafe name. Below are the prices of
-#a cup of coffee at each of three locations:
-#
 # - Octane: $6
 # - Galloway: $5
 # - Starbucks: $4
