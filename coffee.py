@@ -16,10 +16,6 @@ balance = 7.5
 # - If it is not sufficient, print "With [balance] dollars,
 #   I cannot buy coffee at [cafe]"
 
-
-#Add your code here!
-
-
 if cafe == "Octane" and  balance >= 6:
     print("With {} dollars, I can buy coffee at {}".format(balance,cafe))
 
